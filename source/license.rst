@@ -1,4 +1,0 @@
-License
-=======
-
-Hello World!
